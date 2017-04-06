@@ -12,9 +12,9 @@ import BufferedStreams
 export description,
        identifier
 
-include("record.jl")
-include("index.jl")
-include("reader.jl")
-include("writer.jl")
+# include("record.jl")
+# include("index.jl")
+# include("reader.jl")
+# include("writer.jl")
 
 end
